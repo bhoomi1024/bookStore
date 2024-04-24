@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Jungle Book",
+    "title": "Dive into the enchanting world of Jungle Book, where each page unveils a new adventure filled with wonder, courage, and friendship",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/open-book-forest-theme-with-animal-white-background_1308-107677.jpg?t=st=1713849178~exp=1713852778~hmac=cec7b73b04591cc75c4aad984bde9eede39c16d18b04a510e98e20e2590d2de0&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Comadey Book",
+    "title": "Dive into the enchanting world of Jungle Book, where each page unveils a new adventure filled with wonder, courage, and friendship",
+    "price": 20,
+    "category": "Entainment",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713800120~exp=1713803720~hmac=35b4dca4494910204e17e0f9a74b354216ca928b23061e071a708a30f3fa4baf&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Sports Book",
+    "title": "Dive into the enchanting world of Jungle Book, where each page unveils a new adventure filled with wonder, courage, and friendship",
+    "price": 50,
+    "category": "Sports",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713800120~exp=1713803720~hmac=35b4dca4494910204e17e0f9a74b354216ca928b23061e071a708a30f3fa4baf&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Music Book",
+    "title": "Dive into the enchanting world of Jungle Book, where each page unveils a new adventure filled with wonder, courage, and friendship",
+    "price": 100,
+    "category": "Music",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713800120~exp=1713803720~hmac=35b4dca4494910204e17e0f9a74b354216ca928b23061e071a708a30f3fa4baf&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Food Book",
+    "title": "Dive into the enchanting world of Jungle Book, where each page unveils a new adventure filled with wonder, courage, and friendship",
+    "price": 500,
+    "category": "Food",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713800120~exp=1713803720~hmac=35b4dca4494910204e17e0f9a74b354216ca928b23061e071a708a30f3fa4baf&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Story Book",
+    "title": "Dive into the enchanting world of Jungle Book, where each page unveils a new adventure filled with wonder, courage, and friendship",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713800120~exp=1713803720~hmac=35b4dca4494910204e17e0f9a74b354216ca928b23061e071a708a30f3fa4baf&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Story Book",
+    "title": "Dive into the enchanting world of Jungle Book, where each page unveils a new adventure filled with wonder, courage, and friendship",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713800120~exp=1713803720~hmac=35b4dca4494910204e17e0f9a74b354216ca928b23061e071a708a30f3fa4baf&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "Dive into the enchanting world of Jungle Book, where each page unveils a new adventure filled with wonder, courage, and friendship",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713800120~exp=1713803720~hmac=35b4dca4494910204e17e0f9a74b354216ca928b23061e071a708a30f3fa4baf&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Story Book",
+    "title": "Dive into the enchanting world of Jungle Book, where each page unveils a new adventure filled with wonder, courage, and friendship",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713800120~exp=1713803720~hmac=35b4dca4494910204e17e0f9a74b354216ca928b23061e071a708a30f3fa4baf&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Story Book",
+    "title": "Dive into the enchanting world of Jungle Book, where each page unveils a new adventure filled with wonder, courage, and friendship",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713800120~exp=1713803720~hmac=35b4dca4494910204e17e0f9a74b354216ca928b23061e071a708a30f3fa4baf&w=740"
+  }
+]
